@@ -1,6 +1,13 @@
 ## Hi there, I'm Aizhan! 👋
 ### About Me
-🎓 Recent Software Engineering graduate from Astana IT University. Passionate about frontend development, web3, and blockchain tech! 🚀
+🎓 I'm a recent Software Engineering graduate from Astana IT University, with a deep passion for frontend development, web3, and blockchain tech!
+
+💼 Former Instructional Assistant at the Blockchain Center, where I:
+  - Launched 4 blockchain courses for 27M+ users 📚
+  - Created tutorials and mentored students 🧑‍🏫
+
+❤️ I love exploring new technologies, especially in frontend and blockchain. Always learning, always experimenting!
+    
 ## connect with me
 [![Telegram](https://img.shields.io/badge/-Telegram-0C090A?style=for-the-badge&logo=Telegram&logoColor=0096FF)](https://t.me/sssukisukidaisuki)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0C090A?style=for-the-badge&logo=Linkedin&logoColor=6960EC)](https://www.linkedin.com/in/aizhankenzhegarina/)
